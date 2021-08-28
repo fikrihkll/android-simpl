@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#eeba4c</color>
+    <color name="yellow_light">#ffec7c</color>
+    <color name="yellow_dark">#b88a18</color>
+    <color name="teal">#01b6ad</color>
+    <color name="teal_fade">#8F01B6AD</color>
+    <color name="teal_dark">#00857e</color>
+    <color name="teal_light">#5ce9df</color>
+    <color name="teal_darkest_2">#01565d</color>
+    <color name="teal_darkest_2_fade">#8F01565D</color>
+    <color name="teal_darkest">#01383C</color>
+    <color name="black">#2B2B2B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_fade">#80FFFFFF</color>
+    <color name="soft_gray">#FAFAFA</color>
+    <color name="gray_medium">#EAEAEA</color>
+    <color name="black_fade">#CE2B2B2B</color>
+    <color name="white_home_toolbar">#FFFFFFFF</color>
+    <color name="black_home_toolbar">#303030</color>
+    <color name="gray_dark">#7A7A7A</color>
+    <color name="gray">#BEBEBE</color>
+    <color name="red">#FF7260</color>
+    <color name="green">#01b6ad</color>
+</resources>

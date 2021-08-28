@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Other values-->
+    <attr name="backgroundSoftCustom" format="reference" />
+    <attr name="titleColor" format="reference" />
+    <attr name="titleStaticColor" format="reference" />
+    <attr name="titleWhiteSoftColor" format="reference" />
+    <attr name="cardBackgroundCustom" format="reference" />
+    <attr name="cardBackgroundCustomFade" format="reference" />
+    <attr name="accent" format="reference"/>
+    <attr name="colorPrimaryFade" format="reference"/>
+
+
+</resources>
